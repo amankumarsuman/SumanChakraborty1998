@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suman</h1>
+<h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A self-motivated Competent-Developer with Problem-Solving Capability</h3>
 
 
@@ -16,13 +16,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p>
 
 
-- 🌱 **I’m currently learning :** Node, Express, MongoDB
+- 🌱 **I’m currently learning :**React,Redux
 
-- 👨‍💻 **All of my projects are available at :** [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
+- 👨‍💻 **All of my projects are available at :** [https://github.com/amankumarsuman/](https://github.com/amankumarsuman/)
 
 - 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React
 
-- 📄 **Find my Resume :** [http://tiny.cc/want_to_know_suman](http://tiny.cc/want_to_know_suman)
+- 📄 **Find my Resume :** [https://drive.google.com/file/d/13MLrO7K44KkP_K1E_AFoQcPKtaqhCdOm/view]
 
 - 🥅 **2021 Goals :** Learning new things and contribute more
 
@@ -31,9 +31,9 @@
 
 <h3 align="left">Find me around the web</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/suman-chakraborty-699308120/" height="30" width="40" /></a>
-<a href="https://sumanchakra8145.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@sumanchakra8145.medium.com" height="30" width="40" /></a>
-<a href="https://hashnode.com/@way2reachsuman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="https://hashnode.com/@way2reachsuman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-b683b614b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/aman-kumar-b683b614b/" height="30" width="40" /></a>
+
+<a href="amankumarsuman.ssjha143@gmail.com" target="blank"><img align="center" src="https://techcrunch.com/wp-content/uploads/2017/10/gmail-grid.png" alt="https://hashnode.com/@way2reachsuman" height="30" width="40" /></a>
 </p>
 
 
